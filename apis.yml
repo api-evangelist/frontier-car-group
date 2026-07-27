@@ -1,8 +1,27 @@
 aid: frontier-car-group
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/frontier-car-group.png
 name: Frontier Car group
-description: 'Frontier Car group is a company surfaced as a portfolio company of partech and added to
-  the API Evangelist network as a stub for enrichment. Sector: Marketplace. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Frontier Car Group (FCG) was a Berlin-based startup, founded in 2016, that built, launched,
+  and operated online and offline used-car marketplaces across high-growth emerging markets including
+  Nigeria, Mexico, Chile, Pakistan, Indonesia, India and Poland, offering vehicle inspections, pricing
+  guides, financing, warranties and insurance. OLX Group (Prosus/Naspers) invested up to $400M at a $700M
+  valuation in 2019 and folded FCG into its OLX Autos brand; the Berlin operations were shut down in 2021
+  and Prosus later moved to exit the car-classifieds business. As of this enrichment pass the
+  frontiercargroup.com domain no longer resolves (registered and ACTIVE through 2027 but serving no DNS
+  A/NS records), the api.frontiercargroup.com host does not resolve, and the company publishes no
+  developer, API, documentation, or other machine-readable surface. Originally surfaced as a Partech
+  portfolio lead.'
 url: https://raw.githubusercontent.com/api-evangelist/frontier-car-group/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +29,19 @@ x-backed-by:
 - partech
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: defunct
+x-status-reason: 'Folded into OLX Autos (Prosus/Naspers); Berlin ops closed 2021. Domain frontiercargroup.com
+  and api.frontiercargroup.com no longer resolve (no DNS records) as of 2026-07-20. No live API surface.'
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Marketplace
+- Automotive
+- Used Cars
+- Emerging Markets
+- Ecommerce
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +51,8 @@ maintainers:
 common:
 - type: Website
   url: https://www.frontiercargroup.com/
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
