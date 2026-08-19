@@ -32,7 +32,7 @@ x-tier-reason: portfolio-lead
 x-status: defunct
 x-status-reason: 'Folded into OLX Autos (Prosus/Naspers); Berlin ops closed 2021. Domain frontiercargroup.com
   and api.frontiercargroup.com no longer resolve (no DNS records) as of 2026-07-20. No live API surface.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
