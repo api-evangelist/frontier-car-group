@@ -44,7 +44,7 @@ x-status-reason: Folded into OLX Autos (Prosus/Naspers); Berlin ops closed 2021.
   and api.frontiercargroup.com no longer resolve (no DNS records) as of 2026-07-20. No live API surface.
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-09-15'
+modified: '2026-09-16'
 tags:
 - Company
 - Marketplace
@@ -52,6 +52,7 @@ tags:
 - Used Cars
 - Emerging Markets
 - E-Commerce
+- Defunct
 tags_raw:
 - Company
 - Marketplace
@@ -59,6 +60,7 @@ tags_raw:
 - Used Cars
 - Emerging Markets
 - Ecommerce
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
