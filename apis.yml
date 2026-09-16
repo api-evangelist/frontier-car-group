@@ -23,16 +23,15 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/frontier-car-group.png
 name: Frontier Car group
-description: 'Frontier Car Group (FCG) was a Berlin-based startup, founded in 2016, that built, launched,
+description: Frontier Car Group (FCG) was a Berlin-based startup, founded in 2016, that built, launched,
   and operated online and offline used-car marketplaces across high-growth emerging markets including
   Nigeria, Mexico, Chile, Pakistan, Indonesia, India and Poland, offering vehicle inspections, pricing
   guides, financing, warranties and insurance. OLX Group (Prosus/Naspers) invested up to $400M at a $700M
   valuation in 2019 and folded FCG into its OLX Autos brand; the Berlin operations were shut down in 2021
-  and Prosus later moved to exit the car-classifieds business. As of this enrichment pass the
-  frontiercargroup.com domain no longer resolves (registered and ACTIVE through 2027 but serving no DNS
-  A/NS records), the api.frontiercargroup.com host does not resolve, and the company publishes no
-  developer, API, documentation, or other machine-readable surface. Originally surfaced as a Partech
-  portfolio lead.'
+  and Prosus later moved to exit the car-classifieds business. As of this enrichment pass the frontiercargroup.com
+  domain no longer resolves (registered and ACTIVE through 2027 but serving no DNS A/NS records), the
+  api.frontiercargroup.com host does not resolve, and the company publishes no developer, API, documentation,
+  or other machine-readable surface. Originally surfaced as a Partech portfolio lead.
 url: https://raw.githubusercontent.com/api-evangelist/frontier-car-group/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -41,11 +40,11 @@ x-backed-by:
 x-tier: stub
 x-tier-reason: portfolio-lead
 x-status: defunct
-x-status-reason: 'Folded into OLX Autos (Prosus/Naspers); Berlin ops closed 2021. Domain frontiercargroup.com
-  and api.frontiercargroup.com no longer resolve (no DNS records) as of 2026-07-20. No live API surface.'
+x-status-reason: Folded into OLX Autos (Prosus/Naspers); Berlin ops closed 2021. Domain frontiercargroup.com
+  and api.frontiercargroup.com no longer resolve (no DNS records) as of 2026-07-20. No live API surface.
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-09-15'
 tags:
 - Company
 - Marketplace
@@ -53,6 +52,7 @@ tags:
 - Used Cars
 - Emerging Markets
 - E-Commerce
+- Defunct
 tags_raw:
 - Company
 - Marketplace
