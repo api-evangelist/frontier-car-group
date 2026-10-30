@@ -64,6 +64,34 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Frontier Car group is a company surfaced as a portfolio company of partech and added to the API Evangelist network as a stub for enrichment. Sector: Marketplace. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: partech — https://www.frontiercargroup.com/
+Frontier Car Group (FCG) was a Berlin-based startup, founded in 2016, that built, launched, and operated online and offline used-car marketplaces across high-growth emerging markets including Nigeria, Mexico, Chile, Pakistan, Indonesia, India and Poland, offering vehicle inspections, pricing guides, financing, warranties and insurance. OLX Group (Prosus/Naspers) invested up to $400M at a $700M valuation in 2019 and folded FCG into its OLX Autos brand; the Berlin operations were shut down in 2021 and Prosus later moved to exit the car-classifieds business. As of this enrichment pass the frontiercargroup.com domain no longer resolves (registered and ACTIVE through 2027 but serving no DNS A/NS records), the api.frontiercargroup.com host does not resolve, and the company publishes no developer, API, documentation, or other machine-readable surface. Originally surfaced as a Partech portfolio lead.
+
+**Areas:** Company · Marketplace · Automotive · Used Cars · Emerging Markets · E-Commerce · Defunct
+
+## Frontier Car group on APIs.io (historical record)
+
+Everything profiled for Frontier Car group is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/frontier-car-group/](https://apis.io/providers/frontier-car-group/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.frontiercargroup.com/)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Frontier Car group: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/frontier-car-group/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
